@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "gxstav",
+  "name": "NodeJS_Date",
+  "repository": "git@github.com:gxstav/NodeJS_Date.git",
+  "license": "none"
+}
